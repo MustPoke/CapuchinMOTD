@@ -1,1 +1,3 @@
-YIPPE YAHOO YAY YAPPE HAPPE HAPPY HAPPI
+Welcome to Swift Tag! This is the first version of out custom Capuchin server!
+
+This version is the Halloween version and you will start off with 100k Bananas!
